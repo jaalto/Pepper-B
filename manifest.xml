@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="0.0.0" uuid="kontupepper-a09477">
+ <names>
+  <name lang="en_US">Untitled</name>
+ </names>
+ <descriptions>
+  <description lang="fi_FI">TAMK:in syksyn 2018 Pepper-projektin B-ryhmän Kontu-koti demo</description>
+ </descriptions>
+ <supportedLanguages>
+  <language>en_US</language>
+  <language>fi_FI</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+  <language>fi_FI</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="Basic behaviour">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="Puhetta">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
