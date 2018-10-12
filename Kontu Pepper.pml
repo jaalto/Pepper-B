@@ -14,21 +14,21 @@
     </BehaviorDescriptions>
     <Dialogs>
         <Dialog name="alku" src="alku/alku.dlg" />
-        <Dialog name="Pääkeskustelu" src="Pääkeskustelu/Pääkeskustelu.dlg" />
+        <Dialog name="Paakeskustelu" src="Paakeskustelu/Paakeskustelu.dlg" />
     </Dialogs>
     <Resources>
         <File name="surprise3" src="Comfort/surprise3.ogg" />
         <File name="Black_Sabbath_-_Paranoid" src="paranoid/Black_Sabbath_-_Paranoid.wav" />
     </Resources>
     <Topics>
-        <Topic name="alku_enu" src="alku/alku_enu.top" topicName="alku" language="en_US" />
+        <Topic name="alku_enu" src="alku/alku_enu.top" topicName="alku" language="fi_FI" />
         <Topic name="alku_fif" src="alku/alku_fif.top" topicName="alku" language="fi_FI" />
-        <Topic name="Pääkeskustelu_enu" src="Pääkeskustelu/Pääkeskustelu_enu.top" topicName="Pääkeskustelu" language="en_US" />
-        <Topic name="Pääkeskustelu_fif" src="Pääkeskustelu/Pääkeskustelu_fif.top" topicName="Pääkeskustelu" language="fi_FI" />
+        <Topic name="Paakeskustelu_enu" src="Paakeskustelu/Paakeskustelu_enu.top" topicName="Paakeskustelu" language="en_US" />
+        <Topic name="Paakeskustelu_fif" src="Paakeskustelu/Paakeskustelu_fif.top" topicName="Paakeskustelu" language="fi_FI" />
     </Topics>
     <IgnoredPaths>
-        <Path src=".gitignore" />
         <Path src="README.md" />
+        <Path src=".gitignore" />
     </IgnoredPaths>
     <Translations auto-fill="en_US">
         <Translation name="translation_en_US" src="translations/translation_en_US.ts" language="en_US" />

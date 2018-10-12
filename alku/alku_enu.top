@@ -1,5 +1,5 @@
 topic: ~alku()
-language: fif
+language: enu
 
 u: ([kyllä joo okei]) kiva! $positive=1
 u: ([ei en]) voi harmi $negative=1
