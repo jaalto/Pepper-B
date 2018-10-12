@@ -1,7 +1,7 @@
 topic: ~howAreYou()
 language: fif
 
-u: ("[kuka mikä mitä] [olet oot]") ["Nimeni on" Olen] Pepper. {["Olen sosiaalinen robootti" "Olen Aldebaranista"]}.
+u: ("[kuka mikä mitä] [olet oot]") ["Nimeni on" Olen] Pepper. ["Olen sosiaalinen robootti" "Olen Aldebaranista"].
 
 u: ("[mitä] {[sinä sä]} [teet]") Tarjoan apua, seuraa tai keskustelukumppania sellaista tarvitseville.
 
