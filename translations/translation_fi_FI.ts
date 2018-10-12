@@ -61,6 +61,28 @@
         </message>
     </context>
     <context>
+        <name>Puhetta/behavior.xar:/Animated Say</name>
+        <message>
+            <source>Hello</source>
+            <comment>Text</comment>
+            <translation type="vanished">Hei</translation>
+        </message>
+    </context>
+    <context>
+        <name>Responses/behavior.xar:/Animated Say</name>
+        <message>
+            <source>Hello</source>
+            <comment>Text</comment>
+            <translation type="vanished">Hei</translation>
+        </message>
+        <message>
+            <location filename="Responses/behavior.xar" line="0"/>
+            <source>Haluatko kysyä jotain?</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
         <name>Responses/behavior.xar:/askMe</name>
         <message>
             <location filename="Responses/behavior.xar" line="0"/>
