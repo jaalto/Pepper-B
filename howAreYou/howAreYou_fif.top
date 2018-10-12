@@ -1,7 +1,9 @@
 topic: ~howAreYou()
 language: fif
 
-u: ([hei moi wassup terve heippa]) No heipä hei!
+u: ("[kuka mikä mitä] [olet oot]") ["Nimeni on" Olen] Pepper. {["Olen sosiaalinen robootti" "Olen Aldebaranista"]}.
+
+u: ("[mitä] {[sinä sä]} [teet]") Tarjoan apua, seuraa tai keskustelukumppania sellaista tarvitseville.
 
 # Defining extra concepts out of words or group of words
 #concept:(hello) [hello hi hey "good morning" greetings]
