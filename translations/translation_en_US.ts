@@ -215,6 +215,15 @@
         </message>
     </context>
     <context>
+        <name>whereToFrom/behavior.xar:/Other</name>
+        <message>
+            <location filename="whereToFrom/behavior.xar" line="0"/>
+            <source>En ole koskaan käynyt siellä</source>
+            <comment>Text</comment>
+            <translation type="unfinished">En ole koskaan käynyt siellä</translation>
+        </message>
+    </context>
+    <context>
         <name>whereToFrom/behavior.xar:/OuluRep</name>
         <message>
             <location filename="whereToFrom/behavior.xar" line="0"/>
@@ -226,10 +235,9 @@
     <context>
         <name>whereToFrom/behavior.xar:/Say (1)</name>
         <message>
-            <location filename="whereToFrom/behavior.xar" line="0"/>
             <source>En ole koskaan käynyt siellä</source>
             <comment>Text</comment>
-            <translation type="unfinished">En ole koskaan käynyt siellä</translation>
+            <translation type="obsolete">En ole koskaan käynyt siellä</translation>
         </message>
     </context>
     <context>

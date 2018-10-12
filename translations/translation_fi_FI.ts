@@ -185,19 +185,19 @@
         </message>
     </context>
     <context>
-        <name>whereToFrom/behavior.xar:/OuluRep</name>
+        <name>whereToFrom/behavior.xar:/Other</name>
         <message>
             <location filename="whereToFrom/behavior.xar" line="0"/>
-            <source>Tykkään Oulun murteista. Ookko nääki sieltä päin kotoisin?</source>
+            <source>En ole koskaan käynyt siellä</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
     </context>
     <context>
-        <name>whereToFrom/behavior.xar:/Say (1)</name>
+        <name>whereToFrom/behavior.xar:/OuluRep</name>
         <message>
             <location filename="whereToFrom/behavior.xar" line="0"/>
-            <source>En ole koskaan käynyt siellä</source>
+            <source>Tykkään Oulun murteista. Ookko nääki sieltä päin kotoisin?</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
