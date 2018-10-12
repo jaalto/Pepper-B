@@ -93,10 +93,9 @@
     <context>
         <name>Responses/behavior.xar:/Jutella?</name>
         <message>
-            <location filename="Responses/behavior.xar" line="0"/>
             <source>Haluaisitteko jutella hetken?</source>
             <comment>Text</comment>
-            <translation type="unfinished">Haluaisitteko jutella hetken?</translation>
+            <translation type="obsolete">Haluaisitteko jutella hetken?</translation>
         </message>
     </context>
     <context>
@@ -120,19 +119,17 @@
     <context>
         <name>Responses/behavior.xar:/whatAmI</name>
         <message>
-            <location filename="Responses/behavior.xar" line="0"/>
             <source>Olen Pepper! Olen sosiaalinen robotti Aldebaranista.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Olen Pepper! Olen sosiaalinen robotti Aldebaranista.</translation>
+            <translation type="obsolete">Olen Pepper! Olen sosiaalinen robotti Aldebaranista.</translation>
         </message>
     </context>
     <context>
         <name>Responses/behavior.xar:/whatDoIDo</name>
         <message>
-            <location filename="Responses/behavior.xar" line="0"/>
             <source>Tarjoan apua, seuraa tai keskustelukumppanin sellaista tarvitsevalle.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Tarjoan apua, seuraa tai keskustelukumppanin sellaista tarvitsevalle.</translation>
+            <translation type="obsolete">Tarjoan apua, seuraa tai keskustelukumppanin sellaista tarvitsevalle.</translation>
         </message>
     </context>
     <context>
