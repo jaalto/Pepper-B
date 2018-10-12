@@ -10,6 +10,7 @@
         <BehaviorDescription name="behavior" src="weather" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="wannaTalk" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="paranoid" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="Responses" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>

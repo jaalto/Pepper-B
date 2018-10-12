@@ -91,6 +91,51 @@
         </message>
     </context>
     <context>
+        <name>Responses/behavior.xar:/Jutella?</name>
+        <message>
+            <location filename="Responses/behavior.xar" line="0"/>
+            <source>Haluaisitteko jutella hetken?</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Haluaisitteko jutella hetken?</translation>
+        </message>
+    </context>
+    <context>
+        <name>Responses/behavior.xar:/askMe</name>
+        <message>
+            <location filename="Responses/behavior.xar" line="0"/>
+            <source>Voit kysyä minusta jotakin.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Voit kysyä minusta jotakin.</translation>
+        </message>
+    </context>
+    <context>
+        <name>Responses/behavior.xar:/harmi</name>
+        <message>
+            <location filename="Responses/behavior.xar" line="0"/>
+            <source>harmi</source>
+            <comment>Text</comment>
+            <translation type="unfinished">harmi</translation>
+        </message>
+    </context>
+    <context>
+        <name>Responses/behavior.xar:/whatAmI</name>
+        <message>
+            <location filename="Responses/behavior.xar" line="0"/>
+            <source>Olen Pepper! Olen sosiaalinen robotti Aldebaranista.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Olen Pepper! Olen sosiaalinen robotti Aldebaranista.</translation>
+        </message>
+    </context>
+    <context>
+        <name>Responses/behavior.xar:/whatDoIDo</name>
+        <message>
+            <location filename="Responses/behavior.xar" line="0"/>
+            <source>Tarjoan apua, seuraa tai keskustelukumppanin sellaista tarvitsevalle.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Tarjoan apua, seuraa tai keskustelukumppanin sellaista tarvitsevalle.</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/Animated Say</name>
         <message>
             <source>Hello</source>
