@@ -11,20 +11,23 @@
         <BehaviorDescription name="behavior" src="wannaTalk" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="paranoid" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="Responses" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="TestDialogBoxBehavior" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs>
-        <Dialog name="alku" src="alku/alku.dlg" />
-        <Dialog name="Paakeskustelu" src="Paakeskustelu/Paakeskustelu.dlg" />
+        <Dialog name="howAreYou" src="howAreYou/howAreYou.dlg" />
     </Dialogs>
     <Resources>
         <File name="surprise3" src="Comfort/surprise3.ogg" />
         <File name="Black_Sabbath_-_Paranoid" src="paranoid/Black_Sabbath_-_Paranoid.wav" />
     </Resources>
     <Topics>
+        <Topic name="Pääkeskustelu_enu" src="Pääkeskustelu/Pääkeskustelu_enu.top" topicName="Pääkeskustelu" language="fi_FI" />
+        <Topic name="Pääkeskustelu_fif" src="Pääkeskustelu/Pääkeskustelu_fif.top" topicName="Pääkeskustelu" language="fi_FI" />
         <Topic name="alku_enu" src="alku/alku_enu.top" topicName="alku" language="fi_FI" />
         <Topic name="alku_fif" src="alku/alku_fif.top" topicName="alku" language="fi_FI" />
         <Topic name="Paakeskustelu_enu" src="Paakeskustelu/Paakeskustelu_enu.top" topicName="Paakeskustelu" language="en_US" />
         <Topic name="Paakeskustelu_fif" src="Paakeskustelu/Paakeskustelu_fif.top" topicName="Paakeskustelu" language="fi_FI" />
+        <Topic name="howAreYou_fif" src="howAreYou/howAreYou_fif.top" topicName="howAreYou" language="fi_FI" />
     </Topics>
     <IgnoredPaths>
         <Path src="README.md" />

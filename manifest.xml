@@ -17,10 +17,16 @@
  <contents>
   <behaviorContent path="Basic behaviour">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="Puhetta">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="whereToFrom">
@@ -44,6 +50,10 @@
    <permissions/>
   </behaviorContent>
   <behaviorContent path="paranoid">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="TestDialogBoxBehavior">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
