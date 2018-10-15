@@ -1,9 +1,11 @@
 topic: ~howAreYou()
 language: fif
 
-u: ("[kuka mikä mitä] [olet oot]") ["Nimeni on" Olen] Pepper. ["Olen sosiaalinen robootti" "Olen Aldebaranista"].
+u: (["Kerro {[jotain jotakin]} itsestäsi" "Voitko kertoa {[jotain jotakin]} itsestäsi"]) "{[Kyllä tietenkin]}, mitä haluat tietää?"
 
-u: ("[mitä] {[sinä sä]} [teet]") Tarjoan apua, seuraa tai keskustelukumppania sellaista tarvitseville.
+u: ^private("[kuka mikä mitä] [olet oot]") ["Nimeni on" Olen] Pepper. ["Olen sosiaalinen robootti" "Olen Aldebaranista"].
 
-u: ("Omae wa mo shindeiru") Nani?!
+u: ^private("[mitä] {[sinä sä]} [teet]") "Tarjoan apua, seuraa tai keskustelukumppania sellaista tarvitseville."
+
+u: ^private("Omae wa mo shindeiru") "Nani?!"
 

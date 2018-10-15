@@ -155,6 +155,20 @@
         </message>
     </context>
     <context>
+        <name>TestDialogBoxBehavior/behavior.xar:/Say</name>
+        <message>
+            <source>Hello</source>
+            <comment>Text</comment>
+            <translation type="vanished">Hello</translation>
+        </message>
+        <message>
+            <location filename="TestDialogBoxBehavior/behavior.xar" line="0"/>
+            <source>Mikä on sinun lempiruokasi?</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Mikä on sinun lempiruokasi?</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/Animated Say</name>
         <message>
             <source>Hello</source>

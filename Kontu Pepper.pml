@@ -17,6 +17,7 @@
         <Dialog name="alku" src="alku/alku.dlg" />
         <Dialog name="Paakeskustelu" src="Paakeskustelu/Paakeskustelu.dlg" />
         <Dialog name="howAreYou" src="howAreYou/howAreYou.dlg" />
+        <Dialog name="favouriteFood" src="favouriteFood/favouriteFood.dlg" />
     </Dialogs>
     <Resources>
         <File name="surprise3" src="Comfort/surprise3.ogg" />
@@ -28,6 +29,7 @@
         <Topic name="Paakeskustelu_enu" src="Paakeskustelu/Paakeskustelu_enu.top" topicName="Paakeskustelu" language="en_US" />
         <Topic name="Paakeskustelu_fif" src="Paakeskustelu/Paakeskustelu_fif.top" topicName="Paakeskustelu" language="fi_FI" />
         <Topic name="howAreYou_fif" src="howAreYou/howAreYou_fif.top" topicName="howAreYou" language="fi_FI" />
+        <Topic name="favouriteFood_fif" src="favouriteFood/favouriteFood_fif.top" topicName="favouriteFood" language="fi_FI" />
     </Topics>
     <IgnoredPaths>
         <Path src="README.md" />

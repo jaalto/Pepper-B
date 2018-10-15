@@ -1,0 +1,19 @@
+topic: ~favouriteFood()
+language: fif
+concept:(fish) [Lohi Turska Silli Makrilli Ahven]
+concept: (fishConjugated) [lohesta turskasta sillistä makrillista ahvenesta]
+
+u:("puhutaan{ko} ruuasta") ["Käy hyvin" "Kyllä se käy"], Voin kertoa lempiruoastani.
+
+u: ^private(["Pidätkö kalasta?" "Syötkö kalaa?"]) ["pidän kalasta" "syön kalaa" "Pidän kyllä kalasta"]
+u: ^private(["Mikä on lempikalasi" "Mistä kalasta pidät {eniten}"]) Nautin eniten ~fishConjugated .
+u: ^private({[tykkäätkö pidätkö] pizzasta}) Pizza on lemppariani! $lempiruoka=1
+
+# Defining extra concepts out of words or group of words
+#concept:(hello) [hello hi hey "good morning" greetings]
+
+# Catching inputs and triggering outputs
+#u:(e:onStart) $onStopped=1
+
+# Replying to speech
+#u:(~hello) ~hello
